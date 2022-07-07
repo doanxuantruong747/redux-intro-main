@@ -1,4 +1,5 @@
 # Intro to Redux exercise
+## Student: Doan Xuan Truong
 
 - Clone the repo and setup the project with `npm install`
 
